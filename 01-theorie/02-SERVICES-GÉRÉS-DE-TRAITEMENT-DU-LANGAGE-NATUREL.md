@@ -1,4 +1,4 @@
-# **MODULE 6 : INTRODUCTION AU TRAITEMENT DU LANGAGE NATUREL (NLP)**
+### **MODULE 6 : INTRODUCTION AU TRAITEMENT DU LANGAGE NATUREL (NLP)**
 
 ---
 
@@ -165,3 +165,4 @@ Ces services AWS vous permettent de simplifier la création et le déploiement d
 ---
 
 ![image](https://github.com/user-attachments/assets/75099435-2879-4574-8ce8-170c47d5eef2)
+
